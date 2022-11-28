@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Efilex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer stuff
+- 🌱 I’m currently learning playing guitar
+- 💞️ I’m looking to collaborate on `your suggestion here`
 - 📫 How to reach me: felix.meuer19@gmail.com
 
 <!---
